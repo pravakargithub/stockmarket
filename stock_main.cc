@@ -25,7 +25,6 @@ return most_common;
 
 int main()
 {     
-    // testing 
 
     	std::map<std::string,std::vector<int>> stock_data;
         std::vector<int> price_diff;
